@@ -1,0 +1,6 @@
+pandas==2.2.2
+matplotlib==3.10.0
+pytest==8.3.3
+openpyxl==3.1.5
+# streamlit>=1.30  # tùy chọn nếu muốn dashboard web interactive
+# sqlalchemy>=2.0  # tùy chọn nếu dùng PostgreSQL
